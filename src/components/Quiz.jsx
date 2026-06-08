@@ -23,7 +23,7 @@ function Quiz({ question, answers, correctAnswer }) {
                 >
                   {answer}
                 </button>
-            ))};
+            ))}
             <p>{message}</p>    
         </div>    
     ); 
